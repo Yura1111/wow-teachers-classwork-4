@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+.main-header {
+    background: url('img/banner.png') center/cover no-repeat;
+    height: 600px;
+    margin: 0 auto;
+    width: 1024px;
+}
+main, footer {
+    height: 2000px
+    
+}
